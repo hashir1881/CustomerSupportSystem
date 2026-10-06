@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hashim49494\\AppData\\Local\\Temp\\.vsdbgsrc\\e7fb763d7a01b917ab574051e0de3e80518ae33d5c8e4846e4a75a7efa3e2a75\\Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.CustomerDesktop\\obj\\x64\\Debug\\net10.0-windows10.0.26100.0\\win-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\CustomerSupport.CustomerDesktop\\obj\\x64\\Debug\\net10.0-windows10.0.26100.0\\win-x64\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD38BEF-CA61-975F-0BFC-50085DB13AB3}|src\\CustomerSupport.Infrastructure\\CustomerSupport.Infrastructure.csproj|c:\\users\\hashim49494\\.gemini\\antigravity\\scratch\\customersupportsystem\\src\\customersupport.infrastructure\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD38BEF-CA61-975F-0BFC-50085DB13AB3}|src\\CustomerSupport.Infrastructure\\CustomerSupport.Infrastructure.csproj|solutionrelative:src\\customersupport.infrastructure\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8C24DF-219F-243D-465B-7802BDE83A6D}|src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj|c:\\users\\hashim49494\\.gemini\\antigravity\\scratch\\customersupportsystem\\src\\customersupport.domain\\enums\\messagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8C24DF-219F-243D-465B-7802BDE83A6D}|src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj|solutionrelative:src\\customersupport.domain\\enums\\messagetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8C24DF-219F-243D-465B-7802BDE83A6D}|src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj|c:\\users\\hashim49494\\.gemini\\antigravity\\scratch\\customersupportsystem\\src\\customersupport.domain\\enums\\requestpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8C24DF-219F-243D-465B-7802BDE83A6D}|src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj|solutionrelative:src\\customersupport.domain\\enums\\requestpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8C24DF-219F-243D-465B-7802BDE83A6D}|src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj|c:\\users\\hashim49494\\.gemini\\antigravity\\scratch\\customersupportsystem\\src\\customersupport.domain\\enums\\requeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8C24DF-219F-243D-465B-7802BDE83A6D}|src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj|solutionrelative:src\\customersupport.domain\\enums\\requeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8C24DF-219F-243D-465B-7802BDE83A6D}|src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj|c:\\users\\hashim49494\\.gemini\\antigravity\\scratch\\customersupportsystem\\src\\customersupport.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8C24DF-219F-243D-465B-7802BDE83A6D}|src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj|solutionrelative:src\\customersupport.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8C24DF-219F-243D-465B-7802BDE83A6D}|src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj|c:\\users\\hashim49494\\.gemini\\antigravity\\scratch\\customersupportsystem\\src\\customersupport.domain\\customersupport.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC8C24DF-219F-243D-465B-7802BDE83A6D}|src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj|solutionrelative:src\\customersupport.domain\\customersupport.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD38BEF-CA61-975F-0BFC-50085DB13AB3}|src\\CustomerSupport.Infrastructure\\CustomerSupport.Infrastructure.csproj|c:\\users\\hashim49494\\.gemini\\antigravity\\scratch\\customersupportsystem\\src\\customersupport.infrastructure\\customersupport.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CD38BEF-CA61-975F-0BFC-50085DB13AB3}|src\\CustomerSupport.Infrastructure\\CustomerSupport.Infrastructure.csproj|solutionrelative:src\\customersupport.infrastructure\\customersupport.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\CustomerSupportSystem.slnLaunch.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomerSupportSystem.slnLaunch.user||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601B6547-7E13-9745-5D5A-35E7449C9AC5}|src\\CustomerSupport.Application\\CustomerSupport.Application.csproj|c:\\users\\hashim49494\\.gemini\\antigravity\\scratch\\customersupportsystem\\src\\customersupport.application\\customersupport.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{601B6547-7E13-9745-5D5A-35E7449C9AC5}|src\\CustomerSupport.Application\\CustomerSupport.Application.csproj|solutionrelative:src\\customersupport.application\\customersupport.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555FAA16-3D95-6E35-15EE-B287476FFC41}|src\\CustomerSupport.Api\\CustomerSupport.Api.csproj|c:\\users\\hashim49494\\.gemini\\antigravity\\scratch\\customersupportsystem\\src\\customersupport.api\\customersupport.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{555FAA16-3D95-6E35-15EE-B287476FFC41}|src\\CustomerSupport.Api\\CustomerSupport.Api.csproj|solutionrelative:src\\customersupport.api\\customersupport.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84411E8A-6BE6-74BB-AC5E-5047AD3E2504}|src\\CustomerSupport.CsDesktop\\CustomerSupport.CsDesktop.csproj|c:\\users\\hashim49494\\.gemini\\antigravity\\scratch\\customersupportsystem\\src\\customersupport.csdesktop\\customersupport.csdesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84411E8A-6BE6-74BB-AC5E-5047AD3E2504}|src\\CustomerSupport.CsDesktop\\CustomerSupport.CsDesktop.csproj|solutionrelative:src\\customersupport.csdesktop\\customersupport.csdesktop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Api\\CustomerSupport.Api.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\CustomerSupport.Api\\CustomerSupport.Api.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\AppData\\Local\\Temp\\.vsdbgsrc\\e7fb763d7a01b917ab574051e0de3e80518ae33d5c8e4846e4a75a7efa3e2a75\\Monitor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e7fb763d7a01b917ab574051e0de3e80518ae33d5c8e4846e4a75a7efa3e2a75\\Monitor.cs",
+              "ToolTip": "C:\\Users\\hashim49494\\AppData\\Local\\Temp\\.vsdbgsrc\\e7fb763d7a01b917ab574051e0de3e80518ae33d5c8e4846e4a75a7efa3e2a75\\Monitor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e7fb763d7a01b917ab574051e0de3e80518ae33d5c8e4846e4a75a7efa3e2a75\\Monitor.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAJoAAAAhAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:04:25.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.CustomerDesktop\\obj\\x64\\Debug\\net10.0-windows10.0.26100.0\\win-x64\\App.g.i.cs",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.CustomerDesktop\\obj\\x64\\Debug\\net10.0-windows10.0.26100.0\\win-x64\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.CustomerDesktop\\obj\\x64\\Debug\\net10.0-windows10.0.26100.0\\win-x64\\App.g.i.cs",
+              "RelativeToolTip": "src\\CustomerSupport.CustomerDesktop\\obj\\x64\\Debug\\net10.0-windows10.0.26100.0\\win-x64\\App.g.i.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:03:28.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "src\\CustomerSupport.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:40:15.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageType.cs",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Domain\\Enums\\MessageType.cs",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.Domain\\Enums\\MessageType.cs",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Domain\\Enums\\MessageType.cs",
+              "RelativeToolTip": "src\\CustomerSupport.Domain\\Enums\\MessageType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:37:03.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestPriority.cs",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Domain\\Enums\\RequestPriority.cs",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.Domain\\Enums\\RequestPriority.cs",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Domain\\Enums\\RequestPriority.cs",
+              "RelativeToolTip": "src\\CustomerSupport.Domain\\Enums\\RequestPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:37:00.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestStatus.cs",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Domain\\Enums\\RequestStatus.cs",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.Domain\\Enums\\RequestStatus.cs",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Domain\\Enums\\RequestStatus.cs",
+              "RelativeToolTip": "src\\CustomerSupport.Domain\\Enums\\RequestStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:36:49.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "src\\CustomerSupport.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:36:44.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerSupport.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj",
+              "RelativeToolTip": "src\\CustomerSupport.Domain\\CustomerSupport.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-23T10:36:29.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerSupport.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Infrastructure\\CustomerSupport.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.Infrastructure\\CustomerSupport.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Infrastructure\\CustomerSupport.Infrastructure.csproj",
+              "RelativeToolTip": "src\\CustomerSupport.Infrastructure\\CustomerSupport.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-23T10:36:27.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerSupportSystem.slnLaunch.user",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\CustomerSupportSystem.slnLaunch.user",
+              "RelativeDocumentMoniker": "CustomerSupportSystem.slnLaunch.user",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\CustomerSupportSystem.slnLaunch.user",
+              "RelativeToolTip": "CustomerSupportSystem.slnLaunch.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-09-23T07:32:26.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerSupport.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Application\\CustomerSupport.Application.csproj",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.Application\\CustomerSupport.Application.csproj",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Application\\CustomerSupport.Application.csproj",
+              "RelativeToolTip": "src\\CustomerSupport.Application\\CustomerSupport.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-23T07:26:53.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerSupport.CsDesktop.csproj",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.CsDesktop\\CustomerSupport.CsDesktop.csproj",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.CsDesktop\\CustomerSupport.CsDesktop.csproj",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.CsDesktop\\CustomerSupport.CsDesktop.csproj",
+              "RelativeToolTip": "src\\CustomerSupport.CsDesktop\\CustomerSupport.CsDesktop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-23T07:26:28.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerSupport.Api.csproj.user",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Api\\CustomerSupport.Api.csproj.user",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.Api\\CustomerSupport.Api.csproj.user",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Api\\CustomerSupport.Api.csproj.user",
+              "RelativeToolTip": "src\\CustomerSupport.Api\\CustomerSupport.Api.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-09-23T06:27:24.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerSupport.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Api\\CustomerSupport.Api.csproj",
+              "RelativeDocumentMoniker": "src\\CustomerSupport.Api\\CustomerSupport.Api.csproj",
+              "ToolTip": "C:\\Users\\hashim49494\\.gemini\\antigravity\\scratch\\CustomerSupportSystem\\src\\CustomerSupport.Api\\CustomerSupport.Api.csproj",
+              "RelativeToolTip": "src\\CustomerSupport.Api\\CustomerSupport.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-23T06:27:22.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

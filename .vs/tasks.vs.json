@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-CustomerSupport.Api.csproj",
+      "appliesTo": "src/CustomerSupport.Api/CustomerSupport.Api.csproj.user",
+      "type": "launch"
+    }
+  ]
+}

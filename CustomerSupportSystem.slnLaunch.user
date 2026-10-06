@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\CustomerSupport.Api\\CustomerSupport.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\CustomerSupport.CustomerDesktop\\CustomerSupport.CustomerDesktop.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\CustomerSupport.CsDesktop\\CustomerSupport.CsDesktop.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\bin\Debug\net10.0\CustomerSupport.Infrastructure.deps.json
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\bin\Debug\net10.0\CustomerSupport.Infrastructure.dll
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\bin\Debug\net10.0\CustomerSupport.Infrastructure.pdb
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\bin\Debug\net10.0\CustomerSupport.Application.dll
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\bin\Debug\net10.0\CustomerSupport.Domain.dll
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\bin\Debug\net10.0\CustomerSupport.Application.pdb
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\bin\Debug\net10.0\CustomerSupport.Domain.pdb
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\obj\Debug\net10.0\CustomerSupport.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\obj\Debug\net10.0\CustomerSupport.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\obj\Debug\net10.0\CustomerSupport.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\obj\Debug\net10.0\CustomerSupport.Infrastructure.AssemblyInfo.cs
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\obj\Debug\net10.0\CustomerSupport.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\obj\Debug\net10.0\Customer.70AA623D.Up2Date
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\obj\Debug\net10.0\CustomerSupport.Infrastructure.dll
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\obj\Debug\net10.0\refint\CustomerSupport.Infrastructure.dll
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\obj\Debug\net10.0\CustomerSupport.Infrastructure.pdb
+C:\Users\hashim49494\.gemini\antigravity\scratch\CustomerSupportSystem\src\CustomerSupport.Infrastructure\obj\Debug\net10.0\ref\CustomerSupport.Infrastructure.dll
